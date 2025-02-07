@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there, I'm Mohcine! 👋
 
 <!--
 **melkassib/melkassib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a passionate **Java/Kotlin Developer** with experience in **Spring Boot, Quarkus, React, and AWS/GCP**.
+
+- 🚀 **Interested in**: Java, Cloud-native ecosystem, Distributed Systems
+- 🌱 **Currently learning**: AWS/GCP, Kubernetes
+- ✅ **In check-list**: Go, Haskell, Terraform
+---
+
+## 🛠️ Tech Stack
+
+- **Languages**: Java, Kotlin, JavaScript/TypeScript
+- **Backend**: Spring Boot, Quarkus, NodeJS
+- **Frontend**: React, AstroJS, TailwindCSS
+- **Cloud & DevOps**: AWS, GCP, Kubernetes, Docker, Helm
+- **Databases**: PostgreSQL
+- **Messaging & Communication**: Apache Kafka, gRPC, REST
+
+---
+
