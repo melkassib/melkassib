@@ -19,16 +19,16 @@ I'm a passionate **Java/Kotlin Developer** with experience in **Spring Boot, Qua
 
 - 🚀 **Interested in**: Java, Cloud-native ecosystem, Distributed Systems
 - 🌱 **Currently learning**: AWS/GCP, Kubernetes
-- ✅ **In check-list**: Go, Haskell, Terraform
+- ✅ **In check-list**: Go, Terraform
 ---
 
 ## 🛠️ Tech Stack
 
 - **Languages**: Java, Kotlin, JavaScript/TypeScript
 - **Backend**: Spring Boot, Quarkus, NodeJS
-- **Frontend**: React, AstroJS, TailwindCSS
+- **Frontend**: React, AstroJS, NextJS, TailwindCSS
 - **Cloud & DevOps**: AWS, GCP, Kubernetes, Docker, Helm
-- **Databases**: PostgreSQL
+- **Databases**: PostgreSQL, MongoDB
 - **Messaging & Communication**: Apache Kafka, gRPC, REST
 
 ---
